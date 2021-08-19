@@ -1,1 +1,1 @@
-# Students-Cafeteria-management-system
+# Cafeteria-management-system
